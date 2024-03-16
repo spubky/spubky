@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spubky
 - 👀 I’m interested in games, small game development and music!
-- 🌱 I’m currently learning python / pygame development
+- 🌱 I’m currently learning simple python / pygame development
 - 📫 How to reach me; spubky (discord), spubky@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm pretty young :)
